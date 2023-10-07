@@ -1,6 +1,11 @@
 WHAT NEWS
 ===========
 
+Version 2.0.6.1
+---------------
+
+- First Commercial Release
+
 Version 2.0.6.0_beta
 ---------------------
 
